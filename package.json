@@ -1,0 +1,21 @@
+{
+  "name": "quiz_game_app",
+  "version": "1.0.0",
+  "description": "quiz game project",
+  "default": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "keywords": [
+    "quiz",
+    "game",
+    "for",
+    "portfolio"
+  ],
+  "author": "Aryan Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}

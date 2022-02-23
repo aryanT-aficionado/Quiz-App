@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Best Porn star",
+    "choice1": "Eva Elfie",
+    "choice2": "Dani Daniels",
+    "choice3": "Mia Khalifa",
+    "choice4": "Sasha Grey",
+    "answer": 1
+  },
+  {
+    "question": "Current POTUS",
+    "choice1": "Donald Trump",
+    "choice2": "Joe Biden",
+    "choice3": "BH Obama Jr",
+    "choice4": "JF Kennedy",
+    "answer": 2
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  }
+]
